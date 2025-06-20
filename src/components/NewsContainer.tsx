@@ -15,7 +15,7 @@ export async function NewsContainer(): Promise<ReactNode> {
         {/* TODO :: Define type for this JSON item bro */}
         {data.map((item: any, index: number) => (
           <li
-            className="bg-gray-900 text-white mb-3 py-3 px-5 text-md rounded-3xl text-wrap:balance"
+            className="border-2 shadow-xl shadow-[#060D19] border-[#313638] text-[#C0D6ED] mb-3 py-3 px-5 text-md rounded-md text-wrap:balance"
             key={index}
           >
             {item.headline}
@@ -26,7 +26,7 @@ export async function NewsContainer(): Promise<ReactNode> {
   };
 
   return (
-    <div className=" bg-gray-950 continer flex justify-center items-center mt-15 mx-5 py-10 rounded-4xl">
+    <div className="bg-[#0B1120] flex justify-center items-center mt-8 mx-5 py-10 rounded-xl">
       {renderList()}
     </div>
   );
