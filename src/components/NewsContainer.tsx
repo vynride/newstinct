@@ -15,7 +15,7 @@ export async function NewsContainer(): Promise<ReactNode> {
         {/* TODO :: Define type for this JSON item bro */}
         {data.map((item: any, index: number) => (
           <li
-            className="border-2 shadow-xl shadow-[#060D19] border-[#313638] text-[#C0D6ED] mb-3 py-3 px-5 text-md rounded-md text-wrap:balance"
+            className="border-2 shadow-xl border-[#313638a6] text-casualTextGray mb-3 py-3 px-5 text-md rounded-md text-wrap:balance"
             key={index}
           >
             {item.headline}
