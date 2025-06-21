@@ -25,15 +25,17 @@ export default function RootLayout({
   children: React.ReactNode;
 }>) {
   return (
-    <html lang="en">
+    <html lang="en" className="scroll-smooth">
       <body
         className={`${geistSans.variable} ${geistMono.variable} antialiased`}
       >
-        <div className="relative flex justify-center items-center min-h-screen bg-backdrop font-[family-name:var(--font-geist-sans)] p-3 sm:p-4 lg:p-6 overflow-hidden">
-          <div className="relative bg-background w-full h-auto rounded-2xl overflow-hidden shadow-2xl border-black z-50">
-            <NavBar />
-            {children}
-          </div>
+        {/* <div className="relative flex justify-center items-center  bg-backdrop  p-3 sm:p-4 lg:p-6 ">
+
+        </div> */}
+
+        <div className="flex-col justify-center items-center font-[family-name:var(--font-geist-sans)] bg-background min-h-screen w-full h-auto overflow-hidden">
+          <NavBar />
+          {children}
         </div>
       </body>
     </html>

@@ -5,16 +5,20 @@
 
 :root {
   /* --backdrop: #061a33e1; */
-  --background: #0B1120;
-  --foreground: #171717;
-  --backdrop: #042042;
-  --casualTextGray: #C0D6ED;
+  /* --background: #0B1120; */
+  /* --foreground: #171717; */
+  /* --backdrop: #042042; */
+  --background: #06080a;
+  --backdrop: #01152c;
+  /* --casualTextGray: #C0D6ED; */
+  --casualTextGray: #d1e2f5;
   --radius: 0.625rem;
   --card: oklch(1 0 0);
   --card-foreground: oklch(0.129 0.042 264.695);
   --popover: oklch(1 0 0);
   --popover-foreground: oklch(0.129 0.042 264.695);
-  --primary: oklch(0.208 0.042 265.755);
+  /* --primary: oklch(0.208 0.042 265.755); */
+  --primary: #115e59;
   --primary-foreground: oklch(0.984 0.003 247.858);
   --secondary: oklch(0.968 0.007 247.896);
   --secondary-foreground: oklch(0.208 0.042 265.755);
@@ -129,11 +133,11 @@ body {
   --sidebar-ring: oklch(0.551 0.027 264.364);
 }
 
-@layer base {
+/* @layer base {
   * {
     @apply border-border outline-ring/50;
   }
   body {
     @apply bg-background text-foreground;
   }
-}
+} */

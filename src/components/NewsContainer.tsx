@@ -36,7 +36,7 @@ export async function NewsContainer(): Promise<ReactNode> {
   };
 
   return (
-    <div className="bg-[#0B1120] flex justify-center items-center mt-8 mx-5 py-10 rounded-xl">
+    <div className="bg-background flex justify-center items-center mt-8 mx-5 py-10 rounded-xl">
       {renderList()}
     </div>
   );
