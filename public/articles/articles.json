@@ -1,159 +1,122 @@
 [
-
     {
-        "headline": "Intel reportedly plans to lay off over 21,000 employees",
-        "url": "https://techcrunch.com/2025/04/22/intel-reportedly-plans-to-lay-off-over-21000-employees/",
-        "rating": 5.1,
-        "id": "WZQPxbheEfVqqv46"
+        "headline": "Anthropic says most AI models, not just Claude, will resort to blackmail",
+        "url": "https://techcrunch.com/2025/06/20/anthropic-says-most-ai-models-not-just-claude-will-resort-to-blackmail/",
+        "rating": 8.0,
+        "id": "9kQ0vuf4gJ8gE6qE"
     },
     {
-        "headline": "Government censorship comes to Bluesky, but not its third-party apps \u2026 yet",
-        "url": "https://techcrunch.com/2025/04/23/government-censorship-comes-to-bluesky-but-not-its-third-party-apps-yet/",
+        "headline": "Could OpenAI fill Microsoft\u2019s shoes?",
+        "url": "https://techcrunch.com/podcast/could-openai-fill-microsofts-shoes/",
+        "rating": 6.9,
+        "id": "pvBJsp6aIkjmFxFc"
+    },
+    {
+        "headline": "ChatGPT: Everything you need to know about the AI-powered chatbot",
+        "url": "https://techcrunch.com/2025/06/20/chatgpt-everything-to-know-about-the-ai-chatbot/",
+        "rating": 6.5,
+        "id": "NODFZLOf1PjvZUjT"
+    },
+    {
+        "headline": "Iran\u2019s government says it shut down internet to protect against cyberattacks",
+        "url": "https://techcrunch.com/2025/06/20/irans-government-says-it-shut-down-internet-to-protect-against-cyberattacks/",
+        "rating": 6.5,
+        "id": "afNps4Wxpfc4BAf0"
+    },
+    {
+        "headline": "European leaders worry they\u2019re too reliant on U.S. tech",
+        "url": "https://techcrunch.com/2025/06/21/european-leaders-worry-theyre-too-reliant-on-u-s-tech/",
+        "rating": 6.4,
+        "id": "zWEveyomY9U6fVoO"
+    },
+    {
+        "headline": "Nvidia wants in on the nuclear renaissance, invests in Bill Gates-backed TerraPower",
+        "url": "https://techcrunch.com/2025/06/20/nvidia-wants-in-on-the-nuclear-renaissance-invests-in-bill-gates-backed-terrapower/",
+        "rating": 5.8,
+        "id": "8Kl7UqhMqBX1UAJP"
+    },
+    {
+        "headline": "Deezer starts labeling AI-generated music to tackle streaming fraud",
+        "url": "https://techcrunch.com/2025/06/20/deezer-starts-labeling-ai-generated-music-to-tackle-streaming-fraud/",
+        "rating": 5.2,
+        "id": "s8vbuN7f1Wo1KNnd"
+    },
+    {
+        "headline": "X app code points to a physical card coming to X Money",
+        "url": "https://techcrunch.com/2025/06/20/x-app-code-points-to-a-physical-card-coming-to-x-money/",
+        "rating": 5.0,
+        "id": "JzLKu6rF6FeiZO4Z"
+    },
+    {
+        "headline": "Cluely, a startup that helps \u2018cheat on everything,\u2019 raises $15M from a16z",
+        "url": "https://techcrunch.com/2025/06/20/cluely-a-startup-that-helps-cheat-on-everything-raises-15m-from-a16z/",
         "rating": 4.9,
-        "id": "W5p3nZg9yXKjb2Nx"
+        "id": "xKGaFwof9DuukxDl"
     },
     {
-        "headline": "Within six years, building the leading AI data center may cost $200B",
-        "url": "https://techcrunch.com/2025/04/24/within-six-years-building-the-leading-ai-data-center-may-cost-200b/",
+        "headline": "Week in Review: Meta reveals its Oakley smart glasses",
+        "url": "https://techcrunch.com/2025/06/21/week-in-review-meta-reveals-its-oakley-smart-glasses/",
         "rating": 4.5,
-        "id": "z2Y1wgCcQDBX7REX"
+        "id": "IqtCvfZYH67VZxmO"
     },
     {
-        "headline": "Adobe wants to create a robots.txt-styled indicator for images used in AI training",
-        "url": "https://techcrunch.com/2025/04/24/adobe-wants-to-create-a-robots-txt-styled-indicator-for-images-used-in-ai-training/",
-        "rating": 4.5,
-        "id": "tcIQiQE6kGglU8O3"
-    },
-    {
-        "headline": "Anti-Musk protests are now an official risk to Tesla\u2019s business",
-        "url": "https://techcrunch.com/2025/04/23/anti-musk-protests-are-now-an-official-risk-to-teslas-business/",
-        "rating": 4.5,
-        "id": "td7J72qkBdYRI0US"
-    },
-    {
-        "headline": "RepAir Carbon is making carbon removal machines inspired by batteries",
-        "url": "https://techcrunch.com/2025/04/24/repair-carbon-is-making-carbon-removal-machines-inspired-by-batteries/",
-        "rating": 4.4,
-        "id": "09FijZNFQPvYac78"
-    },
-    {
-        "headline": "Facebook cracks down on spammy content by cutting reach and monetization",
-        "url": "https://techcrunch.com/2025/04/24/facebook-cracks-down-on-spammy-content-by-cutting-reach-and-monetization/",
-        "rating": 4.3,
-        "id": "1NTsSUrUQ67db0UJ"
-    },
-    {
-        "headline": "Mark Zuckerberg really wants to make Facebook cool again",
-        "url": "https://techcrunch.com/video/mark-zuckerberg-really-wants-to-make-facebook-cool-again/",
+        "headline": "Mira Murati\u2019s Thinking Machines Lab closes on $2B at $10B valuation",
+        "url": "https://techcrunch.com/2025/06/20/mira-muratis-thinking-machines-lab-closes-on-2b-at-10b-valuation/",
         "rating": 4.2,
-        "id": "alRwb9Zhs93TsFeE"
+        "id": "1YcV8jMpeDJQNg2M"
     },
     {
-        "headline": "Uber, Volkswagen pair up to launch robotaxi service in US with self-driving, electric microbuses",
-        "url": "https://techcrunch.com/2025/04/24/uber-and-volkswagen-pair-up-to-launch-robotaxi-service-with-self-driving-electric-microbuses/",
+        "headline": "Snap acquires Saturn, a social calendar app for high school and college students",
+        "url": "https://techcrunch.com/2025/06/20/snap-acquiressaturn-a-social-calendar-app-for-high-school-and-college-students/",
         "rating": 4.1,
-        "id": "7jFhnVSohAahDRZW"
+        "id": "jXgrpdkucvJy25ZO"
     },
     {
-        "headline": "This tool estimates how much electricity your chatbot messages consume",
-        "url": "https://techcrunch.com/2025/04/24/this-tool-estimates-how-much-electricity-your-chatbot-messages-consume/",
-        "rating": 4.1,
-        "id": "ZwZvUdAKI3D7QXLV"
+        "headline": "TechCrunch Mobility: Applied Intuition\u2019s eye-popping valuation, the new age of micromobility, and Waymo\u2019s wild week\u00a0",
+        "url": "https://techcrunch.com/2025/06/20/techcrunch-mobility-applied-intuitions-eye-popping-valuation-the-new-age-of-micromobility-and-waymos-wild-week/",
+        "rating": 3.8,
+        "id": "SLFlFTwFN7azkWQ7"
     },
     {
-        "headline": "Tesla begins \u2018FSD Supervised\u2019 ride-hail tests with employees in Austin, Bay Area",
-        "url": "https://techcrunch.com/2025/04/23/tesla-begins-fsd-supervised-ride-hail-tests-with-employees-in-austin-bay-area/",
-        "rating": 4.1,
-        "id": "xVN9AI14UR9TU46Y"
+        "headline": "The new math: Why seed investors are selling their winners earlier",
+        "url": "https://techcrunch.com/2025/06/20/the-new-math-why-seed-investors-are-selling-their-winners-earlier/",
+        "rating": 3.6,
+        "id": "DvOvWXBNY85JfEEE"
     },
     {
-        "headline": "Anthropic is launching a new program to study AI \u2018model welfare\u2019",
-        "url": "https://techcrunch.com/2025/04/24/anthropic-is-launching-a-new-program-to-study-ai-model-welfare/",
-        "rating": 4.0,
-        "id": "LsQoiXjnTACpG4pl"
-    },
-    {
-        "headline": "Columbia student suspended over interview cheating tool raises $5.3M to \u2018cheat on everything\u2019",
-        "url": "https://techcrunch.com/2025/04/21/columbia-student-suspended-over-interview-cheating-tool-raises-5-3m-to-cheat-on-everything/",
-        "rating": 3.9,
-        "id": "25itMR5mvZofVd14"
-    },
-    {
-        "headline": "Revolut, the $45B neobank, posts $1B profit in 2024",
-        "url": "https://techcrunch.com/2025/04/24/revolut-the-45b-neobank-posts-1b-profit-in-2024/",
-        "rating": 3.7,
-        "id": "3WxsO2pDVLEJyUhg"
-    },
-    {
-        "headline": "Mystery will may reveal Zappos founder\u2019s final wishes",
-        "url": "https://techcrunch.com/2025/04/23/mystery-will-may-reveal-zappos-founders-final-wishes/",
-        "rating": 3.7,
-        "id": "WlTk9FnTnyJ43iww"
-    },
-    {
-        "headline": "Spotify\u2019s AI playlist rolls out to Asia and more markets",
-        "url": "https://techcrunch.com/2025/04/24/spotifys-ai-playlist-rolls-out-to-asia-and-more-markets/",
+        "headline": "Rippling spy says men have been following him, and his wife is afraid",
+        "url": "https://techcrunch.com/2025/06/20/rippling-spy-says-men-have-been-following-him-and-his-wife-is-afraid/",
         "rating": 3.3,
-        "id": "QdAzLhu1xqhcLdbu"
+        "id": "17GykTQx_EresBsd"
     },
     {
-        "headline": "British startup Isembard lands $9M to reshore manufacturing for critical industries",
-        "url": "https://techcrunch.com/2025/04/24/british-startup-isembard-lands-9m-to-reshore-manufacturing-for-critical-industries/",
-        "rating": 3.1,
-        "id": "Wxf8d3VHWzydZWei"
+        "headline": "Character.AI taps Meta\u2019s former VP of business products as CEO",
+        "url": "https://techcrunch.com/2025/06/20/character-ai-taps-metas-former-vp-of-business-products-as-ceo/",
+        "rating": 3.3,
+        "id": "A2OFfHMNGZ3TcVjB"
     },
     {
-        "headline": "Flex acquires a16z-backed Maza for $40M as fintech M&A heats up",
-        "url": "https://techcrunch.com/2025/04/24/flex-acquires-a16z-backed-maza-for-40m-as-fintech-ma-heats-up/",
-        "rating": 3.0,
-        "id": "A14wTv9pkU08fezU"
-    },
-    {
-        "headline": "TikTok adds support for ALT text for photos",
-        "url": "https://techcrunch.com/2025/04/24/tiktok-adds-support-for-alt-text-for-photos/",
-        "rating": 3.0,
-        "id": "l5UtG03RCxDFFR68"
-    },
-    {
-        "headline": "Netflix now offers dialogue-only subtitles",
-        "url": "https://techcrunch.com/2025/04/24/netflix-now-offers-dialogue-only-subtitles/",
-        "rating": 2.9,
-        "id": "zjxFeigU36fOycAQ"
-    },
-    {
-        "headline": "Chess.com reaches 200 million members",
-        "url": "https://techcrunch.com/2025/04/24/chess-com-reaches-200-million-members/",
-        "rating": 2.8,
-        "id": "Yb7pKNo7rGXWsA0U"
-    },
-    {
-        "headline": "Windsurf slashes prices as competition with Cursor heats up",
-        "url": "https://techcrunch.com/2025/04/23/windsurf-slashes-prices-as-competition-with-cursor-heats-up/",
+        "headline": "The startups rolling out of Europe\u2019s early-stage micromobility scene",
+        "url": "https://techcrunch.com/2025/06/20/the-startups-rolling-out-of-europes-early-stage-micromobility-scene/",
         "rating": 2.7,
-        "id": "SFfEvP1hldwzS5uu"
+        "id": "sJ2DN6gkDHh6nW98"
     },
     {
-        "headline": "Threads officially moves to Threads.com and updates its web app",
-        "url": "https://techcrunch.com/2025/04/24/threads-officially-moves-to-threads-com-and-updates-its-web-app/",
-        "rating": 2.6,
-        "id": "bRdZ1Dh6gFMacQgm"
+        "headline": "Startups Weekly: Fast and furious",
+        "url": "https://techcrunch.com/2025/06/20/startups-weekly-fast-and-furious/",
+        "rating": 2.7,
+        "id": "4Hf152NVxLz4KBuq"
     },
     {
-        "headline": "Dropbox adds new features to Dash, its AI-powered search tool",
-        "url": "https://techcrunch.com/2025/04/24/dropbox-adds-new-features-to-its-ai-powered-search-tool-dash/",
-        "rating": 2.6,
-        "id": "5DixHd48FFN67wpY"
-    },
-    {
-        "headline": "Speak at TechCrunch Disrupt 2025: Applications now open",
-        "url": "https://techcrunch.com/2025/04/24/speak-at-techcrunch-disrupt-2025-applications-now-open/",
+        "headline": "Cartoonist Paul Pope is more worried about killer robots than AI plagiarism",
+        "url": "https://techcrunch.com/2025/06/21/cartoonist-paul-pope-is-more-worried-about-killer-robots-than-ai-plagiarism/",
         "rating": 2.2,
-        "id": "b8u8xb99ZwbGzoX7"
+        "id": "Ll71viB2Wkk4R5nA"
     },
     {
-        "headline": "Founders, your moment is now: Apply for TechCrunch Startup Battlefield 200",
-        "url": "https://techcrunch.com/2025/04/24/founders-your-moment-is-now-apply-for-startup-battlefield-200/",
-        "rating": 2.2,
-        "id": "IUQDDEzFBYl6hlhC"
+        "headline": "2 days left to save up to $210 on your TechCrunch All Stage pass",
+        "url": "https://techcrunch.com/2025/06/21/2-days-left-to-save-up-to-210-on-your-techcrunch-all-stage-pass/",
+        "rating": 1.3,
+        "id": "R4pOeQNdYqJx4uFV"
     }
 ]
