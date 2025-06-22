@@ -1,5 +1,5 @@
 import type { Metadata } from "next";
-import { Manrope } from "next/font/google";
+import {  Manrope } from "next/font/google";
 import NavBar from "@/components/Navbar";
 import "./globals.css";
 

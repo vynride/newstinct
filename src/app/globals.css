@@ -9,7 +9,7 @@
   /* --foreground: #171717; */
   /* --backdrop: #042042; */
   --background: #06080a;
-  --backdrop: #01152c;
+  /* --backdrop: #01152c; */
   /* --casualTextGray: #C0D6ED; */
   --casualTextGray: #d1e2f5;
   --radius: 0.625rem;
@@ -47,7 +47,7 @@
 
 @theme inline {
   --color-background: var(--background);
-  --color-backdrop: var(--backdrop);
+  /* --color-backdrop: var(--backdrop); */
   --color-foreground: var(--foreground);
   --font-sans: var(--font-geist-sans);
   --color-casualTextGray: var(--casualTextGray);
@@ -95,7 +95,7 @@
 } */
 
 body {
-  background: var(--backdrop);
+  /* background: var(--backdrop); */
   casualTextGray: var(--casualTextGray);
 }
 
