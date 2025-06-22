@@ -2,7 +2,6 @@ import { promises as fs } from "fs";
 import { ReactNode } from "react";
 import path from "path";
 import { Card } from "@/components/ui/card";
-import Image from "next/image";
 
 interface Article {
   headline: string;
