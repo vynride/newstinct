@@ -30,7 +30,7 @@ export default function RootLayout({
 
         </div> */}
 
-        <div className="flex-col justify-center items-center font-[family-name:var(--font-manrope)] bg-background min-h-screen w-full h-auto rounded-2xl overflow-hidden shadow-2xl border-black z-50">
+        <div className="flex-col justify-center items-center font-[family-name:var(--font-manrope)] bg-background min-h-screen w-full h-auto overflow-hidden">
           <NavBar />
           {children}
         </div>
