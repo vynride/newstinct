@@ -2,6 +2,7 @@ import { promises as fs } from "fs";
 import { ReactNode } from "react";
 import path from "path";
 import { Card } from "@/components/ui/card";
+import Image from "next/image";
 
 interface Article {
   headline: string;
@@ -22,23 +23,27 @@ export async function NewsCard(): Promise<ReactNode> {
 
   const renderList = (): ReactNode => {
     return (
-      <div className="text-center w-full mx-5 space-y-3">
+      <div className="text-center w-full mx-5 space-y-2">
         {data.map((article: Article, index: number) => (
           <div
-            className="border-2 shadow-xl border-[#313638a6] text-casualTextGray py-3 px-5 text-md rounded-md"
+            className="border-1 shadow-xl border-[#313638a6] text-casualTextGray py-3 px-5 text-md rounded-md"
             key={index}
           >
-            <Card className="flex items-center p-4 bg-background w-full">
-              {/* TODO :: Add Images */}
-              {/* <Image src="/404.jpg" alt="thumbnail" width={20} height={20} className="w-20 h-20 rounded object-cover"/> */}
-
+            <Card className="flex items-center p-0 bg-background w-full">
               <div className="flex w-full justify-between items-center">
-                <h3 className="text-casualTextGray font-semibold text-left flex-1 text-wrap:balance pr-4">
+                <Image
+                  src={`/placeholders/placeholder${index%5 + 1}.jpg`}
+                  alt="thumbnail"
+                  width={180}
+                  height={180}
+                  className="w-25 h-20 rounded object-cover"
+                />
+                <h3 className="text-casualTextGray font-semibold text-left flex-1 text-wrap:balance pr-4 pl-5">
                   {article.headline}
                 </h3>
 
-                <p className="text-muted-foreground text-sm text-right shrink-0 w-20">
-                || {article.rating} ||
+                <p className="text-muted-foreground text-md text-right shrink-0 w-20">
+                  || {article.rating} ||
                 </p>
               </div>
             </Card>

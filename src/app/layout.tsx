@@ -1,6 +1,7 @@
 import type { Metadata } from "next";
 import { Manrope } from "next/font/google";
 import NavBar from "@/components/Navbar";
+import PageFooter from "@/components/Footer";
 import "./globals.css";
 
 const manrope = Manrope({
@@ -30,6 +31,7 @@ export default function RootLayout({
         <div className="flex-col justify-center items-center font-[family-name:var(--font-manrope)] bg-background min-h-screen w-full h-auto overflow-hidden">
           <NavBar />
           {children}
+          <PageFooter />
         </div>
       </body>
     </html>
