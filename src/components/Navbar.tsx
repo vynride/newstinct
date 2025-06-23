@@ -6,7 +6,7 @@ export default function NavBar() {
     <div className="grid grid-cols-3 items-center mt-8 px-1 sm:px-4 bg-background">
       <div className="flex justify-start pl-2 sm:pl-5 md:pl-8 lg:pl-20">
         <Link
-          className="text-center font-bold text-md sm:text-3xl text-[#0f766e] hover:text-[#0f766dcd]"
+          className="hidden sm:block text-center font-bold text-md sm:text-3xl text-[#0f766e] hover:text-[#0f766dcd]"
           href="/"
         >
           Newstinct 🐧
