@@ -30,13 +30,13 @@ export default function NavBar() {
           About
         </Link>
         <Link
-          href="/contact"
+          href="/blogs"
           className="text-casualTextGray hover:text-gray-400 underline underline-offset-10"
         >
           Blog
         </Link>
         <Link
-          href="/blogs"
+          href="/contact"
           className="text-casualTextGray hover:text-gray-400 underline underline-offset-10"
         >
           Contact
