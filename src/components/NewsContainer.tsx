@@ -23,26 +23,26 @@ export async function NewsCard(): Promise<ReactNode> {
 
   const renderList = (): ReactNode => {
     return (
-      <div className="text-center w-full mx-1 sm:mx-5 space-y-2">
+      <div className="text-center w-full mx-1 sm:mx-5 space-y-2 overflow-hidden">
         {data.map((article: Article, index: number) => (
           <div
-            className="border-1 shadow-xl border-[#313638a6] text-casualTextGray py-1 px-2 sm:py-3 sm:px-5 text-md rounded-md"
+            className="border-1 shadow-xl border-[#313638a6] text-casualTextGray py-1 px-2 sm:py-3 sm:px-5 text-base rounded-md"
             key={index}
           >
-            <Card className="flex items-center p-0 bg-background w-full">
+            <Card className="flex flex-wrap items-center p-0 bg-background w-full">
               <div className="flex w-full justify-between items-center">
                 <Image
                   src={`/placeholders/placeholder${index%5 + 1}.jpg`}
                   alt="thumbnail"
-                  width={180}
-                  height={180}
-                  className="w-15 h-10 sm:w-25 sm:h-20 rounded object-cover"
+                  width={100}
+                  height={100}
+                  className="w-20 h-16 sm:w-28 sm:h-20 rounded object-cover"
                 />
-                <h3 className="text-casualTextGray font-semibold text-left flex-1 text-wrap:balance pr-2 pl-3 sm:pr-4 sm:pl-5">
+                <h3 className="text-casualTextGray break-words font-semibold text-left flex-1 text-wrap:balance pr-2 pl-3 sm:pr-4 sm:pl-5">
                   {article.headline}
                 </h3>
 
-                <p className="text-muted-foreground text-[4px] sm:text-md text-right shrink-0 sm:w-20">
+                <p className="text-muted-foreground text-[12px] sm:text-base text-right shrink-0 sm:w-20">
                   || {article.rating} ||
                 </p>
               </div>
