@@ -2,121 +2,157 @@
     {
         "headline": "Anthropic says most AI models, not just Claude, will resort to blackmail",
         "url": "https://techcrunch.com/2025/06/20/anthropic-says-most-ai-models-not-just-claude-will-resort-to-blackmail/",
-        "rating": 7.8,
-        "id": "70r1lZsO8OWg8W28"
-    },
-    {
-        "headline": "Iran\u2019s government says it shut down internet to protect against cyberattacks",
-        "url": "https://techcrunch.com/2025/06/20/irans-government-says-it-shut-down-internet-to-protect-against-cyberattacks/",
-        "rating": 6.6,
-        "id": "LUF3auKUhy2ABiHS"
+        "rating": 7.2,
+        "id": "REci5GeTbr7pORk6"
     },
     {
         "headline": "European leaders worry they\u2019re too reliant on U.S. tech",
         "url": "https://techcrunch.com/2025/06/21/european-leaders-worry-theyre-too-reliant-on-u-s-tech/",
-        "rating": 6.4,
-        "id": "M4BKppIJPf4g0q8o"
+        "rating": 6.8,
+        "id": "uaj3fIyX9qB4rXLx"
     },
     {
-        "headline": "ChatGPT: Everything you need to know about the AI-powered chatbot",
-        "url": "https://techcrunch.com/2025/06/20/chatgpt-everything-to-know-about-the-ai-chatbot/",
-        "rating": 6.1,
-        "id": "ctyCmKgNJL9JdH9K"
+        "headline": "Moratorium on state AI regulation clears Senate hurdle",
+        "url": "https://techcrunch.com/2025/06/22/moratorium-on-state-ai-regulation-clears-senate-hurdle/",
+        "rating": 6.0,
+        "id": "rW7MRTw3vpQ6hL14"
     },
     {
-        "headline": "Nvidia wants in on the nuclear renaissance, invests in Bill Gates-backed TerraPower",
-        "url": "https://techcrunch.com/2025/06/20/nvidia-wants-in-on-the-nuclear-renaissance-invests-in-bill-gates-backed-terrapower/",
+        "headline": "Finland warms up the world\u2019s largest sand battery, and the economics look appealing",
+        "url": "https://techcrunch.com/2025/06/16/finland-warms-up-the-worlds-largest-sand-battery-and-the-economics-look-appealing/",
+        "rating": 5.8,
+        "id": "h5L1svSTkSuZsCag"
+    },
+    {
+        "headline": "Midjourney launches its first AI video generation model, V1",
+        "url": "https://techcrunch.com/2025/06/18/midjourney-launches-its-first-ai-video-generation-model-v1/",
         "rating": 5.6,
-        "id": "O7nb46ws1UjetxWo"
+        "id": "wU45AUTSFGeF14th"
     },
     {
-        "headline": "X app code points to a physical card coming to X Money",
-        "url": "https://techcrunch.com/2025/06/20/x-app-code-points-to-a-physical-card-coming-to-x-money/",
-        "rating": 4.8,
-        "id": "Q6ZkEwKRDxTZgDeV"
+        "headline": "Tesla launches robotaxi rides in Austin with big promises and unanswered questions",
+        "url": "https://techcrunch.com/2025/06/22/tesla-launches-robotaxi-rides-in-austin-with-big-promises-and-unanswered-questions/",
+        "rating": 5.4,
+        "id": "2jbYj1DCDhpmY1jn"
     },
     {
-        "headline": "Could OpenAI fill Microsoft\u2019s shoes?",
-        "url": "https://techcrunch.com/podcast/could-openai-fill-microsofts-shoes/",
+        "headline": "OpenAI pulls promotional materials around Jony Ive deal due to court order",
+        "url": "https://techcrunch.com/2025/06/22/openai-pulls-promotional-materials-around-jony-ive-deal/",
         "rating": 4.7,
-        "id": "MDz7K3UwVllJTfnE"
+        "id": "up18R4YaTrNp0Nns"
+    },
+    {
+        "headline": "Sam Altman says Meta tried and failed to poach OpenAI\u2019s talent with $100M offers",
+        "url": "https://techcrunch.com/2025/06/17/sam-altman-says-meta-tried-and-failed-to-poach-openais-talent-with-100m-offers/",
+        "rating": 4.7,
+        "id": "pqKziTOzDtTJihXf"
+    },
+    {
+        "headline": "The stablecoin evangelist: Katie Haun\u2019s fight for digital dollars",
+        "url": "https://techcrunch.com/2025/06/22/the-stablecoin-evangelist-katie-hauns-fight-for-digital-dollars/",
+        "rating": 4.4,
+        "id": "pLBXIBv9ZhhLJ287"
     },
     {
         "headline": "Cluely, a startup that helps \u2018cheat on everything,\u2019 raises $15M from a16z",
         "url": "https://techcrunch.com/2025/06/20/cluely-a-startup-that-helps-cheat-on-everything-raises-15m-from-a16z/",
         "rating": 4.3,
-        "id": "67IQ1hC6330z9fUh"
-    },
-    {
-        "headline": "Deezer starts labeling AI-generated music to tackle streaming fraud",
-        "url": "https://techcrunch.com/2025/06/20/deezer-starts-labeling-ai-generated-music-to-tackle-streaming-fraud/",
-        "rating": 4.3,
-        "id": "pTfyuJAscRl5AuTW"
-    },
-    {
-        "headline": "TechCrunch Mobility: Applied Intuition\u2019s eye-popping valuation, the new age of micromobility, and Waymo\u2019s wild week\u00a0",
-        "url": "https://techcrunch.com/2025/06/20/techcrunch-mobility-applied-intuitions-eye-popping-valuation-the-new-age-of-micromobility-and-waymos-wild-week/",
-        "rating": 3.9,
-        "id": "WpJu7YjMg5OgLujp"
+        "id": "TQhf934kcAYDhyhh"
     },
     {
         "headline": "Mira Murati\u2019s Thinking Machines Lab closes on $2B at $10B valuation",
         "url": "https://techcrunch.com/2025/06/20/mira-muratis-thinking-machines-lab-closes-on-2b-at-10b-valuation/",
+        "rating": 4.2,
+        "id": "f4wR4GtvdDJw5oQX"
+    },
+    {
+        "headline": "LinkedIn CEO says AI writing assistant is not as popular as expected",
+        "url": "https://techcrunch.com/2025/06/22/linkedin-ceo-says-ai-writing-assistant-is-not-as-popular-as-expected/",
+        "rating": 4.1,
+        "id": "xga4uN6NOwUAQ8de"
+    },
+    {
+        "headline": "Rippling spy says men have been following him, and his wife is afraid",
+        "url": "https://techcrunch.com/2025/06/20/rippling-spy-says-men-have-been-following-him-and-his-wife-is-afraid/",
+        "rating": 4.0,
+        "id": "FLKxVd657BFCfR7I"
+    },
+    {
+        "headline": "Snap acquires Saturn, a social calendar app for high school and college students",
+        "url": "https://techcrunch.com/2025/06/20/snap-acquires-saturn-a-social-calendar-app-for-high-school-and-college-students/",
+        "rating": 3.9,
+        "id": "3HrpfcudVc9xK2yi"
+    },
+    {
+        "headline": "TechCrunch Mobility: Applied Intuition\u2019s eye-popping valuation, the new age of micromobility, and Waymo\u2019s wild week\u00a0",
+        "url": "https://techcrunch.com/2025/06/20/techcrunch-mobility-applied-intuitions-eye-popping-valuation-the-new-age-of-micromobility-and-waymos-wild-week/",
         "rating": 3.7,
-        "id": "2bWdNVxdKN82jRv6"
+        "id": "CNILqMcztWXGMzYd"
     },
     {
         "headline": "The new math: Why seed investors are selling their winners earlier",
         "url": "https://techcrunch.com/2025/06/20/the-new-math-why-seed-investors-are-selling-their-winners-earlier/",
         "rating": 3.6,
-        "id": "s0RkW0JLDFIWxZej"
+        "id": "XBPKTDHseFSB3qbh"
     },
     {
         "headline": "Week in Review: \u00a0Meta reveals its Oakley smart glasses",
         "url": "https://techcrunch.com/2025/06/21/week-in-review-meta-reveals-its-oakley-smart-glasses/",
+        "rating": 3.4,
+        "id": "QIsZnmrSCQVWUffs"
+    },
+    {
+        "headline": "6-month-old, solo-owned vibe coder Base44 sells to Wix for $80M cash",
+        "url": "https://techcrunch.com/2025/06/18/6-month-old-solo-owned-vibe-coder-base44-sells-to-wix-for-80m-cash/",
         "rating": 3.2,
-        "id": "vVErmb7XtFAvBG5A"
+        "id": "0s5wekiQHYm6cgCl"
     },
     {
-        "headline": "Snap acquires Saturn, a social calendar app for high school and college students",
-        "url": "https://techcrunch.com/2025/06/20/snap-acquiressaturn-a-social-calendar-app-for-high-school-and-college-students/",
-        "rating": 3.0,
-        "id": "ac40oH6JakrQt0Ay"
+        "headline": "Google\u2019s Gemini panicked when playing Pok\u00e9mon",
+        "url": "https://techcrunch.com/2025/06/17/googles-gemini-panicked-when-playing-pokemon/",
+        "rating": 3.2,
+        "id": "SicYX0eKG6jG3qdf"
     },
     {
-        "headline": "Character.AI taps Meta\u2019s former VP of business products as CEO",
-        "url": "https://techcrunch.com/2025/06/20/character-ai-taps-metas-former-vp-of-business-products-as-ceo/",
-        "rating": 2.9,
-        "id": "1vEHKZONAzmhoirF"
-    },
-    {
-        "headline": "Startups Weekly: Fast and furious",
-        "url": "https://techcrunch.com/2025/06/20/startups-weekly-fast-and-furious/",
-        "rating": 2.8,
-        "id": "TmOonKATczj0tjMJ"
-    },
-    {
-        "headline": "The startups rolling out of Europe\u2019s early-stage micromobility scene",
-        "url": "https://techcrunch.com/2025/06/20/the-startups-rolling-out-of-europes-early-stage-micromobility-scene/",
-        "rating": 2.4,
-        "id": "Np3qDStLiqVPKWx0"
+        "headline": "Why Danny Boyle shot \u201828 Years Later\u2019 on iPhones",
+        "url": "https://techcrunch.com/2025/06/22/why-danny-boyle-shot-28-years-later-with-iphones/",
+        "rating": 3.1,
+        "id": "364L4ja6tEvzpPR5"
     },
     {
         "headline": "Cartoonist Paul Pope is more worried about killer robots than AI plagiarism",
         "url": "https://techcrunch.com/2025/06/21/cartoonist-paul-pope-is-more-worried-about-killer-robots-than-ai-plagiarism/",
-        "rating": 1.8,
-        "id": "ElJJPw70mJmquCZ5"
+        "rating": 2.9,
+        "id": "xybIprVmgaOXDrah"
     },
     {
-        "headline": "Rippling spy says men have been following him, and his wife is afraid",
-        "url": "https://techcrunch.com/2025/06/20/rippling-spy-says-men-have-been-following-him-and-his-wife-is-afraid/",
-        "rating": 1.7,
-        "id": "iV21wPyJ4E2H7NVM"
+        "headline": "The startups rolling out of Europe\u2019s early-stage micromobility scene",
+        "url": "https://techcrunch.com/2025/06/20/the-startups-rolling-out-of-europes-early-stage-micromobility-scene/",
+        "rating": 2.9,
+        "id": "6iXexXIGJRQFZBjI"
+    },
+    {
+        "headline": "Police shut down Cluely\u2019s party, the \u2018cheat at everything\u2019 startup",
+        "url": "https://techcrunch.com/2025/06/17/police-shut-down-cluelys-party-the-cheat-at-everything-startup/",
+        "rating": 2.2,
+        "id": "bT7C4cc4w32cT76H"
+    },
+    {
+        "headline": "Startups Weekly: Fast and furious",
+        "url": "https://techcrunch.com/2025/06/20/startups-weekly-fast-and-furious/",
+        "rating": 1.9,
+        "id": "JyMHuncaEISs16J1"
+    },
+    {
+        "headline": "Last day to save on your TechCrunch All Stage pass \u2014 prices go up tonight",
+        "url": "https://techcrunch.com/2025/06/22/last-day-to-save-on-your-techcrunch-all-stage-pass-prices-go-up-tonight/",
+        "rating": 1.6,
+        "id": "Z9GF7P7VIowe80OK"
     },
     {
         "headline": "2 days left to save up to $210 on your TechCrunch All Stage pass",
         "url": "https://techcrunch.com/2025/06/21/2-days-left-to-save-up-to-210-on-your-techcrunch-all-stage-pass/",
-        "rating": 1.0,
-        "id": "UTBmdclbtJeWGU6g"
+        "rating": 1.6,
+        "id": "gqdn44gqEwB1CZLJ"
     }
 ]
