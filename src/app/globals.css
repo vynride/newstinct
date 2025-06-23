@@ -96,7 +96,7 @@
 
 body {
   /* background: var(--backdrop); */
-  casualTextGray: var(--casualTextGray);
+  casualtextgray: var(--casualTextGray);
 }
 
 .dark {

@@ -1,5 +1,5 @@
 import type { Metadata } from "next";
-import {  Manrope } from "next/font/google";
+import { Manrope } from "next/font/google";
 import NavBar from "@/components/Navbar";
 import "./globals.css";
 
@@ -7,7 +7,6 @@ const manrope = Manrope({
   variable: "--font-manrope",
   subsets: ["latin"],
 });
-
 
 export const metadata: Metadata = {
   title: "Newstinct",
@@ -23,9 +22,7 @@ export default function RootLayout({
 }>) {
   return (
     <html lang="en">
-      <body
-        className={`${manrope.variable} antialiased`}
-      >
+      <body className={`${manrope.variable} antialiased`}>
         {/* <div className="relative flex justify-center items-center  bg-backdrop  p-3 sm:p-4 lg:p-6 ">
 
         </div> */}
