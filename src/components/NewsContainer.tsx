@@ -3,16 +3,7 @@ import { ReactNode } from "react";
 import path from "path";
 import { Card } from "@/components/ui/card";
 import Image from "next/image";
-
-interface Article {
-  headline: string;
-  rating: number;
-  id: number;
-  url: string;
-  content?: string;
-  author?: string;
-  date?: string;
-}
+import Article from "@/types/article";
 
 export async function NewsCard(): Promise<ReactNode> {
   const file: string = await fs.readFile(
