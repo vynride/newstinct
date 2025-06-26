@@ -1,122 +1,164 @@
 [
     {
-        "headline": "Canada says telcos were breached in China-linked espionage hacks",
-        "url": "https://techcrunch.com/2025/06/23/canada-says-telcos-were-breached-in-china-linked-espionage-hacks/",
-        "rating": 6.4,
-        "id": "n68cI8Ff3S5ANJhZ"
-    },
-    {
         "headline": "Tesla\u2019s robotaxis have already caught the attention of federal safety regulators",
         "url": "https://techcrunch.com/2025/06/23/teslas-robotaxis-have-already-caught-the-attention-of-federal-safety-regulators/",
-        "rating": 6.0,
-        "id": "bLNId9W3YJh0tagq"
+        "rating": 6.3,
+        "id": "aUdNGP1e2ao4fSUB"
     },
     {
-        "headline": "US insurance giant Aflac says customers\u2019 personal data stolen during cyberattack",
-        "url": "https://techcrunch.com/2025/06/23/us-insurance-giant-aflac-says-customers-personal-data-stolen-during-cyberattack/",
+        "headline": "Federal judge sides with Meta in lawsuit over training AI models on copyrighted books",
+        "url": "https://techcrunch.com/2025/06/25/federal-judge-sides-with-meta-in-lawsuit-over-training-ai-models-on-copyrighted-books/",
         "rating": 5.9,
-        "id": "494faNwnqY1lzKvc"
+        "id": "JS2HrtJmUOZSO1M5"
+    },
+    {
+        "headline": "Getty drops key copyright claims against Stability AI, but UK lawsuit continues",
+        "url": "https://techcrunch.com/2025/06/25/getty-drops-key-copyright-claims-against-stability-ai-but-uk-lawsuit-continues/",
+        "rating": 5.9,
+        "id": "W7chnajzOJxe7Uou"
+    },
+    {
+        "headline": "Creative Commons debuts CC signals, a framework for an open AI ecosystem",
+        "url": "https://techcrunch.com/2025/06/25/creative-commons-debuts-cc-signals-a-framework-for-an-open-ai-ecosystem/",
+        "rating": 5.8,
+        "id": "n3e3qdprwuwCtjdf"
+    },
+    {
+        "headline": "Bernie Sanders says that if AI makes us so productive, we should get a 4-day workweek",
+        "url": "https://techcrunch.com/2025/06/25/bernie-sanders-says-that-if-ai-makes-us-so-productive-we-should-get-a-4-day-work-week/",
+        "rating": 5.8,
+        "id": "lCJaB3AaeBII54Du"
+    },
+    {
+        "headline": "Meta is adding AI-powered summaries to WhatsApp",
+        "url": "https://techcrunch.com/2025/06/25/meta-is-adding-ai-powered-summaries-to-whatsapp/",
+        "rating": 5.4,
+        "id": "Hsee9c9VND00jUiz"
+    },
+    {
+        "headline": "Intel hits the brakes on its automotive business, and layoffs have started",
+        "url": "https://techcrunch.com/2025/06/25/intel-hits-the-brakes-on-its-automotive-business-and-layoffs-have-started/",
+        "rating": 5.4,
+        "id": "yLaRTrErSgqqMyM2"
+    },
+    {
+        "headline": "Bumble to lay off 30% of its workforce",
+        "url": "https://techcrunch.com/2025/06/25/bumble-to-lay-off-30-of-its-workforce/",
+        "rating": 4.9,
+        "id": "f3WcmxBAW5cMfjcv"
+    },
+    {
+        "headline": "Bill Gates-backed Airloom begins building its first power plant",
+        "url": "https://techcrunch.com/2025/06/25/bill-gates-backed-airloom-begins-building-its-first-power-plant/",
+        "rating": 4.8,
+        "id": "hfyh42AZZUcCtS7g"
     },
     {
         "headline": "OpenAI pulls promotional materials around Jony Ive deal due to court order",
         "url": "https://techcrunch.com/2025/06/22/openai-pulls-promotional-materials-around-jony-ive-deal/",
-        "rating": 5.6,
-        "id": "6grSgSErHPRo6JaC"
+        "rating": 4.3,
+        "id": "Fj3QK0F9bVroS4vQ"
     },
     {
-        "headline": "Court filings reveal OpenAI and io\u2019s early work on an AI device",
-        "url": "https://techcrunch.com/2025/06/23/court-filings-reveal-openai-and-ios-early-work-on-an-ai-device/",
-        "rating": 5.3,
-        "id": "Y9rTHVoqfKSZwRSm"
+        "headline": "Air quality tests around xAI\u2019s Memphis data center raise questions",
+        "url": "https://techcrunch.com/2025/06/25/air-quality-tests-around-xais-memphis-data-center-raise-questions/",
+        "rating": 4.2,
+        "id": "qcTAgKfqCUbkVmQX"
     },
     {
-        "headline": "Tesla launches robotaxi rides in Austin with big promises and unanswered questions",
-        "url": "https://techcrunch.com/2025/06/22/tesla-launches-robotaxi-rides-in-austin-with-big-promises-and-unanswered-questions/",
-        "rating": 5.0,
-        "id": "SGabI02kMod97jPj"
+        "headline": "Cluely, a startup that helps \u2018cheat on everything,\u2019 raises $15M from a16z",
+        "url": "https://techcrunch.com/2025/06/20/cluely-a-startup-that-helps-cheat-on-everything-raises-15m-from-a16z/",
+        "rating": 4.2,
+        "id": "KgtTb0nsU9WnOqaX"
+    },
+    {
+        "headline": "Sam Altman comes out swinging at The New York Times",
+        "url": "https://techcrunch.com/2025/06/25/sam-altman-comes-out-swinging-at-the-new-york-times/",
+        "rating": 4.0,
+        "id": "soZpRsSn8htwDTnr"
+    },
+    {
+        "headline": "Why Danny Boyle shot \u201828 Years Later\u2019 on iPhones",
+        "url": "https://techcrunch.com/2025/06/22/why-danny-boyle-shot-28-years-later-with-iphones/",
+        "rating": 3.5,
+        "id": "JqCjPnDlZB4BmblY"
+    },
+    {
+        "headline": "Indian drone startup Raphe mPhibr raises $100M as military UAV demand soars",
+        "url": "https://techcrunch.com/2025/06/25/indian-drone-startup-raphe-mphibr-raises-100m-as-military-uav-demand-soars/",
+        "rating": 3.1,
+        "id": "b0la3KdPITkjCUBg"
     },
     {
         "headline": "Apple\u2019s Liquid Glass interface improves with release of iOS 26 Beta 2",
         "url": "https://techcrunch.com/2025/06/23/apples-liquid-glass-interface-improves-with-release-of-ios-26-beta-2/",
-        "rating": 4.7,
-        "id": "HRowCLdxX3JgujST"
+        "rating": 3.1,
+        "id": "BkioV783lFCD4BGX"
     },
     {
-        "headline": "Over a million people now have access to the gen-AI powered Alexa+",
-        "url": "https://techcrunch.com/2025/06/23/over-a-million-people-now-have-access-to-the-gen-ai-powered-alexa/",
-        "rating": 4.7,
-        "id": "VbyZjxccR1aBuL2v"
+        "headline": "6-month-old, solo-owned vibe coder Base44 sells to Wix for $80M cash",
+        "url": "https://techcrunch.com/2025/06/18/6-month-old-solo-owned-vibe-coder-base44-sells-to-wix-for-80m-cash/",
+        "rating": 3.1,
+        "id": "gMrWNNHX2fTXLKd7"
     },
     {
-        "headline": "Senators urge FTC to investigate Spotify\u2019s higher-priced bundled subscription",
-        "url": "https://techcrunch.com/2025/06/23/senators-urge-ftc-to-investigate-spotifys-higher-priced-bundled-subscription/",
-        "rating": 4.6,
-        "id": "5dkrT7W3DxW8rkQm"
+        "headline": "Better Auth, an authentication tool by a self-taught Ethiopian dev, raises $5M from Peak XV, YC",
+        "url": "https://techcrunch.com/2025/06/25/this-self-taught-ethiopian-dev-built-an-authentication-tool-and-got-into-yc/",
+        "rating": 2.9,
+        "id": "l6GRv1IOKhfZaJJY"
     },
     {
-        "headline": "Leak reveals Grok might soon edit your spreadsheets",
-        "url": "https://techcrunch.com/2025/06/23/leak-reveals-grok-might-soon-edit-your-spreadsheets/",
-        "rating": 4.5,
-        "id": "4iQtZZZy9qavwmiM"
+        "headline": "Apple Sports app adds live tennis scores and a redesigned home screen",
+        "url": "https://techcrunch.com/2025/06/25/apple-sports-app-adds-live-tennis-scores-and-a-redesigned-home-screen/",
+        "rating": 2.9,
+        "id": "p9EToS2simndZ1xe"
     },
     {
-        "headline": "New York State wants more nuclear power in a big way",
-        "url": "https://techcrunch.com/2025/06/23/new-york-state-wants-more-nuclear-power-in-a-big-way/",
-        "rating": 4.5,
-        "id": "klAnXEChJSeR9uvm"
+        "headline": "iPhone customers upset by Apple Wallet ad pushing \u2018F1\u2019 movie",
+        "url": "https://techcrunch.com/2025/06/24/iphone-customers-upset-by-apple-wallet-ad-pushing-f1-movie/",
+        "rating": 2.7,
+        "id": "mkdTvpIZnpPsw5NI"
     },
     {
-        "headline": "Google adds AI features to Chromebook Plus devices",
-        "url": "https://techcrunch.com/2025/06/23/google-adds-ai-features-to-chromebook-plus-devices/",
-        "rating": 4.3,
-        "id": "jQkH9ixpSHrsOPa7"
-    },
-    {
-        "headline": "Databricks, Perplexity co-founder pledges $100M on new fund for AI researchers",
-        "url": "https://techcrunch.com/2025/06/23/databricks-perplexity-co-founder-pledges-100m-on-new-fund-for-ai-researchers/",
-        "rating": 4.2,
-        "id": "PVYz8CcM2BqsMk95"
-    },
-    {
-        "headline": "TikTok parent ByteDance is shutting down its short-lived book publisher",
-        "url": "https://techcrunch.com/2025/06/23/tiktok-parent-bytedance-is-shutting-down-its-short-lived-book-publisher/",
-        "rating": 3.5,
-        "id": "FVPK9EVnjozwHyd5"
-    },
-    {
-        "headline": "Four months after a $3B valuation, Harvey AI grows to $5B",
-        "url": "https://techcrunch.com/2025/06/23/four-months-after-a-3b-valuation-harvey-ai-grows-to-5b/",
-        "rating": 3.3,
-        "id": "npXVeYYOA9OBqTme"
-    },
-    {
-        "headline": "Japanese shipping firm NYK acquires Kadmos, a salary payment platform for seafarers",
-        "url": "https://techcrunch.com/2025/06/23/japanese-shipping-firm-nyk-acquires-kadmos-a-salary-payment-platform-for-seafarers/",
-        "rating": 2.8,
-        "id": "wzt8xGtmkR9vIey1"
-    },
-    {
-        "headline": "SMB-focused Finom closes \u20ac115M as European fintech heats up",
-        "url": "https://techcrunch.com/2025/06/23/smb-focused-finom-closes-e115m-as-european-fintech-heats-up/",
-        "rating": 2.8,
-        "id": "T1xWjcxZwsSQ60Lc"
-    },
-    {
-        "headline": "TechCrunch Disrupt 2025: The Builders Stage agenda is now live and taking shape",
-        "url": "https://techcrunch.com/2025/06/23/techcrunch-disrupt-2025-the-builders-stage-agenda-is-now-live-and-taking-shape/",
+        "headline": "Rubrik acquires Predibase to accelerate adoption of AI agents",
+        "url": "https://techcrunch.com/2025/06/25/rubrik-acquires-predibase-to-accelerate-adoption-of-ai-agents/",
         "rating": 2.6,
-        "id": "hhdHdjt6ZkNstaqE"
+        "id": "WlzP2MHySlgpCcj3"
     },
     {
-        "headline": "AllSpice\u2019s platform is the GitHub for electrical engineering teams",
-        "url": "https://techcrunch.com/2025/06/23/allspices-platform-is-the-github-for-electrical-engineering-teams/",
-        "rating": 2.6,
-        "id": "rjzfqVWDltqil8SH"
+        "headline": "Kalshi closes $185M round as rival Polymarket reportedly seeks $200M",
+        "url": "https://techcrunch.com/2025/06/25/kalshi-closes-185m-round-as-rival-polymarket-reportedly-seeks-200m/",
+        "rating": 2.3,
+        "id": "mM8FOgYBYk0BFngz"
     },
     {
-        "headline": "Want to know where VCs are investing next? Be in the room at TechCrunch Disrupt 2025",
-        "url": "https://techcrunch.com/2025/06/23/want-to-know-where-vcs-are-investing-next-be-in-the-room-at-techcrunch-disrupt-2025/",
-        "rating": 2.6,
-        "id": "IltA8FWCt35tZOZF"
+        "headline": "Brad Feld on \u201cGive First\u201d and the art of mentorship (at any age)",
+        "url": "https://techcrunch.com/2025/06/25/brad-feld-on-give-first-and-the-art-of-mentorship-at-any-age/",
+        "rating": 2.1,
+        "id": "R0vMKayHFaGzeTjf"
+    },
+    {
+        "headline": "Sitch\u2019s new dating app fuses human matchmaking and AI",
+        "url": "https://techcrunch.com/2025/06/25/sitch-wants-to-fuse-human-personality-and-ai-for-matchmaking/",
+        "rating": 1.9,
+        "id": "IZf9zHnojlg1mtJG"
+    },
+    {
+        "headline": "How one biotech startup is betting on cows and winning over investors",
+        "url": "https://techcrunch.com/podcast/how-one-biotech-startup-is-betting-on-cows-and-winning-over-investors/",
+        "rating": 1.8,
+        "id": "3qVET7QuRMEp2qg9"
+    },
+    {
+        "headline": "Introducing the Going Public Stage at TechCrunch Disrupt 2025",
+        "url": "https://techcrunch.com/2025/06/25/introducing-the-going-public-stage-at-techcrunch-disrupt-2025/",
+        "rating": 1.8,
+        "id": "BjoSx4b1HUz2wwmE"
+    },
+    {
+        "headline": "Winning capital for your AI startup? Kleida Martiro is leading the conversation at TechCrunch All Stage",
+        "url": "https://techcrunch.com/2025/06/25/winning-capital-for-your-ai-startup-kleida-martiro-is-leading-the-conversation-at-techcrunch-all-stage/",
+        "rating": 1.8,
+        "id": "bd0vQgMvDeUMAXvR"
     }
 ]
