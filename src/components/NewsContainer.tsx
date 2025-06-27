@@ -4,6 +4,8 @@ import path from "path";
 import { Card } from "@/components/ui/card";
 import Image from "next/image";
 import Article from "@/types/article";
+import Link from "next/link";
+
 
 export async function NewsCard(): Promise<ReactNode> {
   const file: string = await fs.readFile(
@@ -29,9 +31,13 @@ export async function NewsCard(): Promise<ReactNode> {
                   height={100}
                   className="w-20 h-16 sm:w-28 sm:h-20 rounded object-cover"
                 />
-                <h3 className="text-casualTextGray break-words font-semibold text-left flex-1 text-wrap:balance pr-2 pl-3 sm:pr-4 sm:pl-5">
+                <Link
+                href={article.url}
+                target="_blank"
+                className="text-casualTextGray break-words font-semibold text-left flex-1 text-wrap:balance pr-2 pl-3 sm:pr-4 sm:pl-5">
                   {article.headline}
-                </h3>
+                </Link>
+
 
                 <p className="text-muted-foreground text-[12px] sm:text-base text-right shrink-0 sm:w-20">
                   || {article.rating} ||

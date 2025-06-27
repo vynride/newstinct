@@ -1,164 +1,158 @@
 [
     {
+        "headline": "Apple updates the rules for its EU App Store by adding more complicated fees",
+        "url": "https://techcrunch.com/2025/06/26/apple-updates-the-rules-for-its-eu-app-store-by-adding-more-complicated-fees/",
+        "rating": 6.5,
+        "id": "qfDV3r05xRCj8WSc"
+    },
+    {
         "headline": "Tesla\u2019s robotaxis have already caught the attention of federal safety regulators",
         "url": "https://techcrunch.com/2025/06/23/teslas-robotaxis-have-already-caught-the-attention-of-federal-safety-regulators/",
-        "rating": 6.3,
-        "id": "aUdNGP1e2ao4fSUB"
+        "rating": 6.1,
+        "id": "HtTiihNzyKXiipy9"
     },
     {
-        "headline": "Federal judge sides with Meta in lawsuit over training AI models on copyrighted books",
-        "url": "https://techcrunch.com/2025/06/25/federal-judge-sides-with-meta-in-lawsuit-over-training-ai-models-on-copyrighted-books/",
-        "rating": 5.9,
-        "id": "JS2HrtJmUOZSO1M5"
-    },
-    {
-        "headline": "Getty drops key copyright claims against Stability AI, but UK lawsuit continues",
-        "url": "https://techcrunch.com/2025/06/25/getty-drops-key-copyright-claims-against-stability-ai-but-uk-lawsuit-continues/",
-        "rating": 5.9,
-        "id": "W7chnajzOJxe7Uou"
-    },
-    {
-        "headline": "Creative Commons debuts CC signals, a framework for an open AI ecosystem",
-        "url": "https://techcrunch.com/2025/06/25/creative-commons-debuts-cc-signals-a-framework-for-an-open-ai-ecosystem/",
-        "rating": 5.8,
-        "id": "n3e3qdprwuwCtjdf"
-    },
-    {
-        "headline": "Bernie Sanders says that if AI makes us so productive, we should get a 4-day workweek",
-        "url": "https://techcrunch.com/2025/06/25/bernie-sanders-says-that-if-ai-makes-us-so-productive-we-should-get-a-4-day-work-week/",
-        "rating": 5.8,
-        "id": "lCJaB3AaeBII54Du"
-    },
-    {
-        "headline": "Meta is adding AI-powered summaries to WhatsApp",
-        "url": "https://techcrunch.com/2025/06/25/meta-is-adding-ai-powered-summaries-to-whatsapp/",
+        "headline": "German data protection official wants Apple, Google to remove DeepSeek from the country\u2019s app stores",
+        "url": "https://techcrunch.com/2025/06/27/germany-tells-apple-google-to-remove-deepseek-from-the-countrys-app-stores/",
         "rating": 5.4,
-        "id": "Hsee9c9VND00jUiz"
+        "id": "MG20wNdelilQlsBV"
     },
     {
-        "headline": "Intel hits the brakes on its automotive business, and layoffs have started",
-        "url": "https://techcrunch.com/2025/06/25/intel-hits-the-brakes-on-its-automotive-business-and-layoffs-have-started/",
-        "rating": 5.4,
-        "id": "yLaRTrErSgqqMyM2"
-    },
-    {
-        "headline": "Bumble to lay off 30% of its workforce",
-        "url": "https://techcrunch.com/2025/06/25/bumble-to-lay-off-30-of-its-workforce/",
+        "headline": "Big Tech lands an early win in legal battles against publishers",
+        "url": "https://techcrunch.com/podcast/big-tech-lands-an-early-win-in-legal-battles-against-publishers/",
         "rating": 4.9,
-        "id": "f3WcmxBAW5cMfjcv"
-    },
-    {
-        "headline": "Bill Gates-backed Airloom begins building its first power plant",
-        "url": "https://techcrunch.com/2025/06/25/bill-gates-backed-airloom-begins-building-its-first-power-plant/",
-        "rating": 4.8,
-        "id": "hfyh42AZZUcCtS7g"
+        "id": "bg1oJoR06ZG6CUB7"
     },
     {
         "headline": "OpenAI pulls promotional materials around Jony Ive deal due to court order",
         "url": "https://techcrunch.com/2025/06/22/openai-pulls-promotional-materials-around-jony-ive-deal/",
-        "rating": 4.3,
-        "id": "Fj3QK0F9bVroS4vQ"
+        "rating": 4.8,
+        "id": "lcfe2oW8vJa87wal"
     },
     {
-        "headline": "Air quality tests around xAI\u2019s Memphis data center raise questions",
-        "url": "https://techcrunch.com/2025/06/25/air-quality-tests-around-xais-memphis-data-center-raise-questions/",
-        "rating": 4.2,
-        "id": "qcTAgKfqCUbkVmQX"
+        "headline": "Meta buys over 1 GW of renewables to power its data centers",
+        "url": "https://techcrunch.com/2025/06/27/meta-buys-over-1-gw-of-renewables-to-power-its-data-centers/",
+        "rating": 4.7,
+        "id": "adNUIEu87ABRn7sY"
+    },
+    {
+        "headline": "Denmark clamps down on deepfakes by letting people copyright their own features",
+        "url": "https://techcrunch.com/2025/06/27/denmark-clamps-down-on-deepfakes-by-letting-people-copyright-their-own-features/",
+        "rating": 4.5,
+        "id": "yTwByoUGGSPKYIKO"
+    },
+    {
+        "headline": "Meta in talks to acquire voice cloning startup Play AI",
+        "url": "https://techcrunch.com/2025/06/27/meta-in-talks-to-acquire-voice-cloning-startup-play-ai/",
+        "rating": 4.4,
+        "id": "OK1OTKRBzrxYsJMI"
     },
     {
         "headline": "Cluely, a startup that helps \u2018cheat on everything,\u2019 raises $15M from a16z",
         "url": "https://techcrunch.com/2025/06/20/cluely-a-startup-that-helps-cheat-on-everything-raises-15m-from-a16z/",
         "rating": 4.2,
-        "id": "KgtTb0nsU9WnOqaX"
+        "id": "XAsEaF831n34iWlL"
     },
     {
         "headline": "Sam Altman comes out swinging at The New York Times",
         "url": "https://techcrunch.com/2025/06/25/sam-altman-comes-out-swinging-at-the-new-york-times/",
-        "rating": 4.0,
-        "id": "soZpRsSn8htwDTnr"
+        "rating": 3.8,
+        "id": "fyMsv5Q3iy7jJK8w"
     },
     {
-        "headline": "Why Danny Boyle shot \u201828 Years Later\u2019 on iPhones",
-        "url": "https://techcrunch.com/2025/06/22/why-danny-boyle-shot-28-years-later-with-iphones/",
-        "rating": 3.5,
-        "id": "JqCjPnDlZB4BmblY"
-    },
-    {
-        "headline": "Indian drone startup Raphe mPhibr raises $100M as military UAV demand soars",
-        "url": "https://techcrunch.com/2025/06/25/indian-drone-startup-raphe-mphibr-raises-100m-as-military-uav-demand-soars/",
-        "rating": 3.1,
-        "id": "b0la3KdPITkjCUBg"
+        "headline": "Redwood Materials launches energy storage business and its first target is AI data centers",
+        "url": "https://techcrunch.com/2025/06/26/redwood-materials-lunches-energy-storage-business-and-its-first-target-is-ai-data-centers/",
+        "rating": 3.7,
+        "id": "VWguu9a2jALORnWa"
     },
     {
         "headline": "Apple\u2019s Liquid Glass interface improves with release of iOS 26 Beta 2",
         "url": "https://techcrunch.com/2025/06/23/apples-liquid-glass-interface-improves-with-release-of-ios-26-beta-2/",
-        "rating": 3.1,
-        "id": "BkioV783lFCD4BGX"
+        "rating": 3.7,
+        "id": "Gkt8m4N9DIC3tyS5"
     },
     {
-        "headline": "6-month-old, solo-owned vibe coder Base44 sells to Wix for $80M cash",
-        "url": "https://techcrunch.com/2025/06/18/6-month-old-solo-owned-vibe-coder-base44-sells-to-wix-for-80m-cash/",
-        "rating": 3.1,
-        "id": "gMrWNNHX2fTXLKd7"
+        "headline": "Travis Kalanick is trying to buy Pony AI \u2014 and Uber might help",
+        "url": "https://techcrunch.com/2025/06/26/travis-kalanick-is-trying-to-buy-pony-ai-and-uber-might-help/",
+        "rating": 3.6,
+        "id": "vRzv4EOo6kgP9Zao"
     },
     {
-        "headline": "Better Auth, an authentication tool by a self-taught Ethiopian dev, raises $5M from Peak XV, YC",
-        "url": "https://techcrunch.com/2025/06/25/this-self-taught-ethiopian-dev-built-an-authentication-tool-and-got-into-yc/",
-        "rating": 2.9,
-        "id": "l6GRv1IOKhfZaJJY"
+        "headline": "Why a16z VC believes that Cluely, the \u2018cheat on everything\u2019 startup, is the new blueprint for AI startups",
+        "url": "https://techcrunch.com/2025/06/26/why-a16z-vc-believes-that-cluely-the-cheat-on-everything-startup-is-the-new-blueprint-for-ai-startups/",
+        "rating": 3.5,
+        "id": "CXuD3poKFOOug2qb"
     },
     {
-        "headline": "Apple Sports app adds live tennis scores and a redesigned home screen",
-        "url": "https://techcrunch.com/2025/06/25/apple-sports-app-adds-live-tennis-scores-and-a-redesigned-home-screen/",
-        "rating": 2.9,
-        "id": "p9EToS2simndZ1xe"
+        "headline": "Startups Weekly: Tech and the law",
+        "url": "https://techcrunch.com/2025/06/27/startups-weekly-tech-and-the-law/",
+        "rating": 3.3,
+        "id": "7Q3PZ2Jd7NsCKf4r"
+    },
+    {
+        "headline": "OpenAI hires team behind AI recommendation startup Crossing Minds",
+        "url": "https://techcrunch.com/2025/06/27/openai-hires-team-behind-ai-recommendation-startup-crossing-minds/",
+        "rating": 3.3,
+        "id": "2QNlKAXA1gFhYvDL"
+    },
+    {
+        "headline": "Google launches Doppl, a new app that lets you visualize how an outfit might look on you",
+        "url": "https://techcrunch.com/2025/06/26/google-launches-doppl-a-new-app-that-lets-you-visualize-how-an-outfit-might-look-on-you/",
+        "rating": 3.2,
+        "id": "y6T1RwGHEduvPWKi"
+    },
+    {
+        "headline": "This AI-powered startup studio plans to launch 100,000 companies a year \u2014 really",
+        "url": "https://techcrunch.com/2025/06/26/this-ai-powered-startup-studio-plans-to-launch-100000-companies-a-year-really/",
+        "rating": 3.0,
+        "id": "2NKZmyPZGozhjvSe"
+    },
+    {
+        "headline": "Why Danny Boyle shot \u201828 Years Later\u2019 on iPhones",
+        "url": "https://techcrunch.com/2025/06/22/why-danny-boyle-shot-28-years-later-with-iphones/",
+        "rating": 2.7,
+        "id": "OUoQqYGfqQX2j6v0"
     },
     {
         "headline": "iPhone customers upset by Apple Wallet ad pushing \u2018F1\u2019 movie",
         "url": "https://techcrunch.com/2025/06/24/iphone-customers-upset-by-apple-wallet-ad-pushing-f1-movie/",
-        "rating": 2.7,
-        "id": "mkdTvpIZnpPsw5NI"
+        "rating": 2.5,
+        "id": "1II7pGeILmG9EeWs"
     },
     {
-        "headline": "Rubrik acquires Predibase to accelerate adoption of AI agents",
-        "url": "https://techcrunch.com/2025/06/25/rubrik-acquires-predibase-to-accelerate-adoption-of-ai-agents/",
-        "rating": 2.6,
-        "id": "WlzP2MHySlgpCcj3"
+        "headline": "PetLibro\u2019s new smart camera uses AI to describe your pet\u2019s movements, and it\u2019s adorable",
+        "url": "https://techcrunch.com/2025/06/27/petlibros-new-smart-camera-uses-ai-to-describe-its-pets-movements-and-its-adorable/",
+        "rating": 2.4,
+        "id": "Dc4DhPW46ew3JJoC"
     },
     {
-        "headline": "Kalshi closes $185M round as rival Polymarket reportedly seeks $200M",
-        "url": "https://techcrunch.com/2025/06/25/kalshi-closes-185m-round-as-rival-polymarket-reportedly-seeks-200m/",
-        "rating": 2.3,
-        "id": "mM8FOgYBYk0BFngz"
+        "headline": "David H. Rosmarin brings a founder-focused approach to anxiety at TechCrunch All Stage",
+        "url": "https://techcrunch.com/2025/06/27/david-h-rosmarin-brings-a-founder-focused-approach-to-anxiety-at-techcrunch-all-stage/",
+        "rating": 2.2,
+        "id": "1MwXoNcr4vzf67an"
     },
     {
-        "headline": "Brad Feld on \u201cGive First\u201d and the art of mentorship (at any age)",
-        "url": "https://techcrunch.com/2025/06/25/brad-feld-on-give-first-and-the-art-of-mentorship-at-any-age/",
+        "headline": "TechCrunch All Stage 2025: Prepare 4 VC\u2019s Jason Kraus will instruct on how to turn chaos into momentum",
+        "url": "https://techcrunch.com/2025/06/27/techcrunch-all-stage-2025-prepare-4-vcs-jason-kraus-will-instruct-on-how-to-turn-chaos-into-momentum/",
         "rating": 2.1,
-        "id": "R0vMKayHFaGzeTjf"
+        "id": "389KKWo1wdNtKWbD"
     },
     {
-        "headline": "Sitch\u2019s new dating app fuses human matchmaking and AI",
-        "url": "https://techcrunch.com/2025/06/25/sitch-wants-to-fuse-human-personality-and-ai-for-matchmaking/",
-        "rating": 1.9,
-        "id": "IZf9zHnojlg1mtJG"
+        "headline": "At TechCrunch All Stage, Jahanvi Sardana shares how top startups reshape markets",
+        "url": "https://techcrunch.com/2025/06/26/new-session-at-techcrunch-all-stage-jahanvi-sardana-on-how-top-startups-reshape-markets/",
+        "rating": 2.1,
+        "id": "GL5OeuH0LDkaAgB7"
     },
     {
-        "headline": "How one biotech startup is betting on cows and winning over investors",
-        "url": "https://techcrunch.com/podcast/how-one-biotech-startup-is-betting-on-cows-and-winning-over-investors/",
-        "rating": 1.8,
-        "id": "3qVET7QuRMEp2qg9"
+        "headline": "TechCrunch All Stage: Learn how AI can supercharge your MVPs with Chris Gardner",
+        "url": "https://techcrunch.com/2025/06/26/techcrunch-all-stage-learn-how-ai-can-supercharge-your-mvps-with-chris-gardner/",
+        "rating": 2.1,
+        "id": "yyjXBiriGPQfvYG4"
     },
     {
-        "headline": "Introducing the Going Public Stage at TechCrunch Disrupt 2025",
-        "url": "https://techcrunch.com/2025/06/25/introducing-the-going-public-stage-at-techcrunch-disrupt-2025/",
-        "rating": 1.8,
-        "id": "BjoSx4b1HUz2wwmE"
-    },
-    {
-        "headline": "Winning capital for your AI startup? Kleida Martiro is leading the conversation at TechCrunch All Stage",
-        "url": "https://techcrunch.com/2025/06/25/winning-capital-for-your-ai-startup-kleida-martiro-is-leading-the-conversation-at-techcrunch-all-stage/",
-        "rating": 1.8,
-        "id": "bd0vQgMvDeUMAXvR"
+        "headline": "Rollback rates: TechCrunch All Stage brings back early launch prices for a limited time",
+        "url": "https://techcrunch.com/2025/06/27/rollback-rates-techcrunch-all-stage-brings-back-early-launch-prices-for-a-limited-time/",
+        "rating": 1.4,
+        "id": "nITeYyv5ZuCoAE1g"
     }
 ]
